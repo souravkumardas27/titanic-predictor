@@ -7,9 +7,12 @@ A machine learning project that predicts passenger survival on the Titanic using
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-predictor57.streamlit.app)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [Live Demo](#live-demo)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -23,6 +26,10 @@ A machine learning project that predicts passenger survival on the Titanic using
 ## 🎯 Overview
 
 This project analyzes the famous Titanic dataset to predict passenger survival using machine learning techniques. The analysis includes comprehensive exploratory data analysis (EDA) and implements two different machine learning models to compare their performance.
+
+## 🔗 Live Demo
+
+- Streamlit App: https://titanic-predictor57.streamlit.app
 
 ### Key Insights
 - **Overall Survival Rate**: 38.38%
@@ -182,6 +189,8 @@ titanic-predictor/
 
 The Streamlit application provides an intuitive interface for making predictions:
 
+- Try it online: https://titanic-predictor57.streamlit.app
+
 ### Features
 - **Real-time Predictions**: Instant results as you input data
 - **Dual Model Comparison**: Side-by-side predictions from both models
@@ -245,4 +254,4 @@ If you have any questions or suggestions, please reach out:
 
 ⭐ **Star this repository** if you found it helpful!
 
-🚀 **Happy Predicting!** 🚀
+ **Happy Predicting!** 

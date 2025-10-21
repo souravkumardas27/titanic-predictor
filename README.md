@@ -230,7 +230,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📄 License
 
-This project is licensed under the MIT License. © 2025 Your Name. See the [LICENSE](LICENSE) file for full details.
+This project is licensed under the MIT License. © 2025 Sourav Kumar Das. See the [LICENSE](LICENSE) file for full details.
 
 ## 🙏 Acknowledgments
 

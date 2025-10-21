@@ -10,7 +10,6 @@ __pycache__/
 # Data and model artifacts (IMPORTANT: Keep your data private!)
 data/raw/
 data/processed/
-models/
 *.pkl
 *.joblib
 *.h5

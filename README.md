@@ -239,7 +239,7 @@ This project is licensed under the MIT License. © 2025 Your Name. See the [LICE
 
 If you have any questions or suggestions, please reach out:
 
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/titanic-predictor/issues)
+- **GitHub Issues**: [Create an issue](https://github.com/souravkumardas27/titanic-predictor/issues)
 
 ---
 
